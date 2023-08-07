@@ -1,0 +1,16 @@
+C:\Users\David\source\repos\WildarExamen\WildarExamen\bin\Debug\net5.0\WildarExamen.exe
+C:\Users\David\source\repos\WildarExamen\WildarExamen\bin\Debug\net5.0\WildarExamen.deps.json
+C:\Users\David\source\repos\WildarExamen\WildarExamen\bin\Debug\net5.0\WildarExamen.runtimeconfig.json
+C:\Users\David\source\repos\WildarExamen\WildarExamen\bin\Debug\net5.0\WildarExamen.runtimeconfig.dev.json
+C:\Users\David\source\repos\WildarExamen\WildarExamen\bin\Debug\net5.0\WildarExamen.dll
+C:\Users\David\source\repos\WildarExamen\WildarExamen\bin\Debug\net5.0\ref\WildarExamen.dll
+C:\Users\David\source\repos\WildarExamen\WildarExamen\bin\Debug\net5.0\WildarExamen.pdb
+C:\Users\David\source\repos\WildarExamen\WildarExamen\obj\Debug\net5.0\WildarExamen.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\WildarExamen\WildarExamen\obj\Debug\net5.0\WildarExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\WildarExamen\WildarExamen\obj\Debug\net5.0\WildarExamen.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\WildarExamen\WildarExamen\obj\Debug\net5.0\WildarExamen.AssemblyInfo.cs
+C:\Users\David\source\repos\WildarExamen\WildarExamen\obj\Debug\net5.0\WildarExamen.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\WildarExamen\WildarExamen\obj\Debug\net5.0\WildarExamen.dll
+C:\Users\David\source\repos\WildarExamen\WildarExamen\obj\Debug\net5.0\ref\WildarExamen.dll
+C:\Users\David\source\repos\WildarExamen\WildarExamen\obj\Debug\net5.0\WildarExamen.pdb
+C:\Users\David\source\repos\WildarExamen\WildarExamen\obj\Debug\net5.0\WildarExamen.genruntimeconfig.cache
